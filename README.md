@@ -6,6 +6,8 @@ Of course. Here is the content formatted as a complete `README.md` file. You can
 
 This ROS 2 project simulates a differential drive robot in Gazebo and makes it follow a predefined trajectory using a waypoint follower node. The project includes the robot's URDF model, a Gazebo simulation environment, and a Python-based control node for trajectory planning and execution. The path is smoothed using cubic spline interpolation, and the robot's motion is controlled using a lookahead algorithm.
 
+<img width="1248" height="644" alt="image" src="https://github.com/user-attachments/assets/3775880a-96a4-4d63-9d6d-b130acf157df" />
+
 -----
 
 ## 📜 Table of Contents
